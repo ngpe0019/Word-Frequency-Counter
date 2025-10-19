@@ -1,0 +1,9 @@
+🧩 PROJECT: Word Frequency Counter
+
+Concepts covered: loops, conditionals, dictionaries, file reading
+
+📝 Description
+
+Write a program to read a text file and count how many times each word appears. Then print the 10 most common words in descending order of frequency.
+
+📁 Sample file — sample1.txt
